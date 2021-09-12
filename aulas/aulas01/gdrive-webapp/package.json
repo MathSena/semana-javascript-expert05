@@ -1,0 +1,16 @@
+{
+  "name": "@mathsena/gdrive-webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "npx http-server public"
+  },
+  "keywords": [],
+  "author": "mathsena",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
