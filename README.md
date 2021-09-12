@@ -1,6 +1,6 @@
 # Google Drive Clone - Semana JS Expert 5.0
 
-Seja bem vindo(a) à quinta Semana Javascript Expert. Este é o código inicial para iniciar nossa jornada.
+Seja bem vindo(a) à quinta Semana Javascript Expert. 
 
 Marque esse projeto com uma estrela 🌟
 
