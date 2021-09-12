@@ -4,7 +4,7 @@ import { pipeline } from 'stream/promises'
 import { logger } from './logger.js'
 
 
-export default class UploadHeandler{
+export default class UploadHandlerUploadHandlerUploadHandler{
     constructor({io, socketId, downloadsFolder, messageTimeDelay = 200}){
         this.io = io
         this.socketId = socketId 
